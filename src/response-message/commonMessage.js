@@ -1,0 +1,23 @@
+module.exports = {
+    INVALID_USER: 'Not a valid user.',
+    INVALID_TOKEN: 'Invalid token',
+    MISSING_TOKEN: 'Token is missing.',
+    APP_REINSTALL: 'something went wrong, please reinstall the application and try again.',
+    UNAUTHORIZED_TRIP_USER: 'User is unauthorized for this trip.',
+    PARA_MISSING: 'Parameters are missing!',
+    SERVER_ERR: 'server error occured',
+    RGST_COMP: "Registration successfully completed",
+    RGST_FAILD: "Registration failed!",
+    LIKE_SUCC: 'Liked successfully',
+    LIKE_SUCC_FETCH: 'Like successfully fetched',
+    LIKES_SUCC_FETCH: 'Likes successfully fetched',
+    LIKE_NOT_FOUND: 'Like not found!',
+    NOTI_SUCC_CREATE: 'Notification successfully created',
+    NOTI_SUCC_UPDATE: 'Notifications successfully updated',
+    IMAGE_UPD_ERR: "Error in uploading Image!",
+    INCORT_SYS: 'Invalid system name',
+    APP_VER_SUCC: 'App version successfully checked',
+    APP_VER_FAILED: 'Failed to get app version',
+    UPD_APP_VSN: 'You are using an older version of the application. Please update application for the latest features.',
+    DATA_SUCCESS: 'Data fetched successfully!'
+}

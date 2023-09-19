@@ -1,0 +1,10 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.rzbels",
+			"sha256_cert_fingerprints": ["B7:61:51:0C:35:83:B9:42:09:7F:28:C2:0D:98:76:BE:59:D7:57:0D:81:7C:98:68:71:D8:A4:44:2E:F7:21:95"]
+		}
+	}
+]
